@@ -1,3 +1,4 @@
+@echo on
 @echo off
 title Protected by 5X500 Password protection
 color 03
